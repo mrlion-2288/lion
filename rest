@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main (void)
+{
+int i;
+i = 0;
+print("the value of i: ", &i);
+}
